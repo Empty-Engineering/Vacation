@@ -1,0 +1,5 @@
+--Run Mod26.py
+--Use '$ ./Mod26.py'
+--If there is an error with permissions, use '$ sudo chmod +x Mod26.py'
+--You can also use a separate IDLE if preferred.
+--When using an idle, run the file 'ModProject'
